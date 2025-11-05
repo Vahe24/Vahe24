@@ -27,7 +27,6 @@ I am an IT professional with 4+ years of experience in software development and 
       ✓ Nmap<br>
       ✓ Hydra<br>
       ✓ OWASP Top 10<br>
-      ✓ ISO/IEC 27001/27002<br>
     </td>
     <td valign="top" width="33%">
       <strong>Scripting & Automation</strong><br>
